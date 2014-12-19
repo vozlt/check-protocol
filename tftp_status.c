@@ -2,15 +2,15 @@
 +--------------------------------------------------+
 | @file: tftp_status.c                             |
 | @brief: Program for tftp status testing          |
-| @author: YoungJoo.Kim <http://superlinuxer.com>  |
+| @author: YoungJoo.Kim <vozlt@vozlt.com>          |
 | @version:                                        |
 | @date: 20080428                                  |
 +--------------------------------------------------+
  
 +-----------------------------------------------------------------------------+
 shell> gcc -o tftp_status tftp_status.c
-shell> ./tftp_status tftp.superlinuxer.com
-server           : tftp.superlinuxer.com
+shell> ./tftp_status tftp.vozlt.com
+server           : tftp.vozlt.com
 server port      : 69
 my bind port     : 33451
 send packet size : 17

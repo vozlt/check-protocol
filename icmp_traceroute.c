@@ -2,7 +2,7 @@
 +--------------------------------------------------+
 | @file: icmp_traceroute.c                         |
 | @brief: Program for icmp traceroute testing      |
-| @author: YoungJoo.Kim <http://superlinuxer.com>  |
+| @author: YoungJoo.Kim <vozlt@vozlt.com>          |
 | @version:                                        |
 | @date: 20080515                                  |
 +--------------------------------------------------+

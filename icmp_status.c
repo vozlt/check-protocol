@@ -2,7 +2,7 @@
 +--------------------------------------------------+
 | @file: icmp_status.c                             |
 | @brief: Program for icmp status testing          |
-| @author: YoungJoo.Kim <http://superlinuxer.com>  |
+| @author: YoungJoo.Kim <vozlt@vozlt.com>          |
 | @version:                                        |
 | @date: 20080515                                  |
 +--------------------------------------------------+

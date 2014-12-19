@@ -236,4 +236,4 @@ TFTPD SERVER STATUS : OK
 ```
 
 ## Author
-YoungJoo.Kim <[http://superlinuxer.com](http://superlinuxer.com)>
+YoungJoo.Kim [<vozlt@vozlt.com>]

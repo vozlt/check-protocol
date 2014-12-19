@@ -2,23 +2,23 @@
 +--------------------------------------------------+
 | @file: smtp_status.c                             |
 | @brief: Program for tftp status testing          |
-| @author: YoungJoo.Kim <http://superlinuxer.com>  |
+| @author: YoungJoo.Kim <vozlt@vozlt.com>          |
 | @version:                                        |
 | @date: 20080414                                  |
 +--------------------------------------------------+
  
 +-----------------------------------------------------------------------------+
 shell> gcc -o smtp_status smtp_status.c
-shell> ./smtp_status mx1.hotmail.com root@smtp.superlinuxer.com anonymous@hotmail.com
+shell> ./smtp_status mx1.hotmail.com root@smtp.vozlt.com anonymous@hotmail.com
 <<< 220 SNT0-MC3-F19.Snt0.hotmail.com Sending unsolicited commercial or bulk e-mail to Microsoft's computer network is prohibited.
  
 >>> HELO mx1.hotmail.com
  
 <<< 250 SNT0-MC3-F19.Snt0.hotmail.com (3.19.0.77) Hello [61.72.251.55]
  
->>> MAIL FROM: root@smtp.superlinuxer.com
+>>> MAIL FROM: root@smtp.vozlt.com
  
-<<< 250 root@smtp.superlinuxer.com....Sender OK
+<<< 250 root@smtp.vozlt.com....Sender OK
  
 >>> RCPT TO: anonymous@hotmail.com
  
@@ -128,9 +128,9 @@ SMTP SERVER STATUS : OK
  
 	EXAMPLE : 	
 			<<< 220
-			>>> MAIL From: from@superlinuxer.com
+			>>> MAIL From: from@vozlt.com
 			<<< 250
-			>>> RCPT To: vozlt@superlinuxer.com
+			>>> RCPT To: vozlt@vozlt.com
 			<<< 250
 			>>> DATA
 			<<< 354
