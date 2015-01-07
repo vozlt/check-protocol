@@ -1,7 +1,7 @@
 TCP/IP based applicaction protocol checker
 ==========
 
-[![License](http://img.shields.io/badge/license-GNU%20LGPL-brightgreen.svg)](http://www.gnu.org/licenses/lgpl.html)
+[![License](http://img.shields.io/badge/license-BSD3-brightgreen.svg)](https://tldrlegal.com/license/bsd-3-clause-license-%28revised%29)
 
 This checker has some simple sources to check the TCP/IP based application protocols. 
 
