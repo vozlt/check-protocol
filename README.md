@@ -236,4 +236,4 @@ TFTPD SERVER STATUS : OK
 ```
 
 ## Author
-YoungJoo.Kim [<vozlt@vozlt.com>]
+YoungJoo.Kim(김영주) [<vozltx@gmail.com>]
